@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\OfferMicroservice.exe
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\OfferMicroservice.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\OfferMicroservice.deps.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\OfferMicroservice.runtimeconfig.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\OfferMicroservice.pdb
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Offer\OfferMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
