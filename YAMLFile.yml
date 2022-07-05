@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: finalwebapi41-deployment 
+  labels:
+    app: FinalWebApi41
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: FinalWebApi41  
+  template:
+    metadata:
+      labels:
+        app: FinalWebApi41
+    spec:
+      containers:
+      - name: finalwebapi4cr
+        image: finalwebapi4cr.azurecr.io/finalwebapi4crrepo:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: finalwebapi41secretkey
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: finalwebapi41svc
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: FinalWebApi41
